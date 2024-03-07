@@ -82,7 +82,7 @@ class XGBoost(object):
                 },
             },
             'menu_icon': 'house',
-            'default_index': 7,
+            'default_index': 0,
             'orientation': 'vertical',
             'styles': STYLES
         }
