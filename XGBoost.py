@@ -16,6 +16,9 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Set the theme to dark
+st.set_theme('dark')
+
 
 STYLES = {
     "container": {"margin": "0px !important", "padding": "0!important", "align-items": "stretch", "background-color": "#fafafa"},
