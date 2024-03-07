@@ -16,8 +16,6 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Set the theme to dark
-st.set_theme('dark')
 
 
 STYLES = {
